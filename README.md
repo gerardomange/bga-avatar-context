@@ -7,6 +7,7 @@ El sitio es una prueba temporal mientras no se tiene acceso al WordPress de BGA.
 ## Archivos principales
 
 - `index.html`: índice general del sitio.
+- `avatar-contexto-completo.html`: p?gina consolidada con el contenido textual de todas las p?ginas para usar cuando LiveAvatar solo acepta un URL.
 - `contexto-general.html`: contenido de Contexto General BGA.
 - `faq-bga.html`: preguntas frecuentes de BGA.
 - `sectores-resultados.html`: sectores, experiencia y resultados documentados.
@@ -36,6 +37,7 @@ Después de activar GitHub Pages, copia las URLs finales de cada página HTML y 
 
 URLs esperadas si el repositorio se publica como `bga-avatar-context`:
 
+- `https://USUARIO.github.io/bga-avatar-context/avatar-contexto-completo.html`
 - `https://USUARIO.github.io/bga-avatar-context/contexto-general.html`
 - `https://USUARIO.github.io/bga-avatar-context/faq-bga.html`
 - `https://USUARIO.github.io/bga-avatar-context/sectores-resultados.html`
