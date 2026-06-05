@@ -2509,3 +2509,140 @@ El avatar no debe inventar resultados ni atribuir cifras a clientes si no están
 - Cobranza y servicios corporativos: LEGAXXI.
 
 Nota interna: aunque exista una carta de Necochea en archivos de referencia, el avatar no debe mencionar a Necochea como cliente o caso de referencia.
+
+## Kick-off de Diagnóstico BGA
+
+El kick-off de diagnóstico es la reunión de apertura con la que BGA inicia formalmente el proceso de diagnóstico con un cliente. Su objetivo es alinear expectativas, explicar la metodología, presentar al equipo consultor, pedir apertura al equipo interno y dejar claros los tiempos, entregables, compromisos y forma de trabajo.
+
+El diagnóstico busca entender la situación actual de la empresa para identificar áreas de oportunidad, cuantificar su impacto y construir una propuesta de proyecto enfocada en generar valor.
+
+## Objetivo del diagnóstico
+
+El diagnóstico de BGA sirve para conocer la realidad actual de la organización y entender cómo está operando frente a su estrategia. BGA busca identificar qué tan alineados están los elementos clave de la empresa y qué oportunidades existen para mejorar gestión, ejecución, rentabilidad, control, información y capital humano.
+
+El diagnóstico no parte de soluciones preconcebidas. Primero se observa, se pregunta, se valida información y se entiende cómo trabaja realmente la organización.
+
+## Cuatro elementos organizacionales que revisa BGA
+
+Durante el diagnóstico, BGA revisa la situación actual de cuatro elementos organizacionales:
+
+- Estrategia: cómo la empresa quiere competir, crecer, cumplir sus metas y abordar su mercado.
+- Procesos: cómo se ejecuta el trabajo en las áreas clave y dónde existen desconexiones, mermas, retrabajos o falta de control.
+- Sistemas de información: qué información existe, qué tan confiable es, cómo se usa para tomar decisiones y si permite dar seguimiento a indicadores.
+- Capital humano: capacidades, estructura, roles, liderazgo, gestión del cambio y potencial del equipo para sostener una nueva forma de trabajo.
+
+El diagnóstico busca entender estos elementos para que, en un eventual proyecto, puedan alinearse.
+
+## Duración típica
+
+Un diagnóstico de BGA puede durar de 7 a 21 días, dependiendo del alcance. En algunos casos se trabaja en un periodo intensivo de 14 días.
+
+Durante ese tiempo, el equipo de BGA realiza entrevistas, levantamientos, observación de procesos, revisión de información, validación de hallazgos y análisis de beneficios potenciales.
+
+## Cómo se vive el diagnóstico
+
+BGA explica al equipo del cliente que el diagnóstico puede sentirse intenso o incómodo, porque los consultores preguntan muchas cosas, revisan procesos y pueden hacer preguntas similares desde distintos ángulos.
+
+Esto sucede porque BGA analiza tanto el proceso como la participación de las personas dentro del proceso. La repetición de preguntas ayuda a validar información, detectar diferencias entre áreas y entender la realidad operativa.
+
+BGA busca ser respetuoso del tiempo del cliente y no estorbar el día a día, pero sí requiere un esfuerzo adicional del equipo para entrevistas, levantamientos y reuniones de validación.
+
+## Levantamiento y entrevistas
+
+Durante el diagnóstico, BGA solicita que las personas clave expliquen:
+
+- Su puesto.
+- Sus actividades principales.
+- Cómo realizan su trabajo.
+- Qué información usan.
+- Qué problemas enfrentan.
+- Qué procesos dependen de su área.
+- Qué oportunidades observan.
+- Qué herramientas o sistemas utilizan.
+- Qué ya tienen avanzado.
+
+Los consultores se acercan a las áreas clave para levantar información y entender la operación de primera mano.
+
+## Reunión D1
+
+Dentro del diagnóstico puede existir una reunión D1, que funciona como una primera reunión de validación.
+
+En la D1 se presentan los primeros hallazgos, áreas de oportunidad iniciales y observaciones relevantes a los directivos clave. Esta reunión permite validar si lo que BGA está encontrando refleja correctamente la realidad de la empresa.
+
+La D1 ayuda a evitar que la presentación final llegue con información no validada o desconectada de la visión directiva.
+
+## Presentación final del diagnóstico
+
+Al cierre del diagnóstico, BGA presenta los hallazgos finales, las áreas de oportunidad, las cuantificaciones, la tabla de beneficios potenciales identificados, la propuesta de solución y una propuesta de retorno de inversión basada en lo encontrado.
+
+La presentación final busca responder:
+
+- Qué está pasando en la empresa.
+- Dónde están las principales áreas de oportunidad.
+- Cuánto pueden estar costando esas áreas de oportunidad.
+- Qué beneficios potenciales se identificaron.
+- Qué solución propone BGA.
+- Qué retorno puede buscarse con base en el diagnóstico.
+- Qué proyecto tendría sentido implementar.
+
+## Capital humano dentro del diagnóstico
+
+El diagnóstico también puede incluir una etapa de Capital Humano o Potenciación. Esta puede considerar entrevistas, evaluaciones, exámenes y sesiones individuales con personas clave.
+
+Estas evaluaciones ayudan a entender fortalezas, áreas de oportunidad, estilo de gestión, liderazgo, apertura al cambio y capacidades del equipo para sostener el proyecto.
+
+Las evaluaciones pueden requerir varias horas y deben realizarse antes de las sesiones de retroalimentación o análisis individual.
+
+## Qué no hace BGA en el diagnóstico
+
+BGA no llega como experto absoluto del negocio del cliente. El cliente conoce su operación y su industria; BGA aporta metodología, experiencia en gestión e implementación.
+
+BGA no trabaja solo. Necesita que el equipo del cliente comparta información, explique la operación y valide hallazgos.
+
+BGA no llega con soluciones preconcebidas. Aunque tenga experiencia en industrias similares, cada empresa tiene una realidad, cultura, filosofía y forma de operar propia.
+
+BGA no implementa desde la oficina. Su enfoque es de campo, en piso, donde suceden las cosas.
+
+## Qué sí hace BGA en el diagnóstico
+
+BGA sí cuenta con una metodología propia orientada a resultados mediante sistemas de gestión y capital humano.
+
+BGA sí trabaja en colaboración con todos los niveles de la organización.
+
+BGA sí identifica problemas, los cuantifica y desarrolla soluciones junto con el cliente.
+
+BGA sí respeta las ideas del personal del cliente.
+
+BGA sí se enfoca en hechos, datos y objetividad.
+
+BGA sí toma como punto de partida lo que el cliente ya tiene desarrollado, sin empezar desde cero si ya existen avances.
+
+BGA sí busca entender qué se puede implementar realmente con los recursos actuales y dentro de un tiempo razonable.
+
+## Compromisos de BGA
+
+BGA se compromete a completar el programa de diagnóstico contratado dentro del tiempo y costo pactado.
+
+También se compromete a mantener estricta confidencialidad sobre la información, propuestas y resultados generados durante el diagnóstico.
+
+## Compromisos del cliente
+
+El cliente debe proporcionar el tiempo necesario de su equipo para completar el enfoque del diagnóstico.
+
+También debe asegurar asistencia y puntualidad a las reuniones de validación, participación de personas clave, apertura para compartir información y disponibilidad para entrevistas o levantamientos.
+
+La confidencialidad debe ser mutua, y ambas partes deben cuidar la relación profesional y al personal involucrado.
+
+## Mensaje cultural del kick-off
+
+El kick-off de diagnóstico también sirve para pedir apertura, humildad y disposición al equipo del cliente. El diagnóstico requiere observar lo bueno y lo malo de la organización, identificar áreas de oportunidad que a veces no son visibles desde dentro y construir una visión más clara, ordenada y eficiente.
+
+BGA puede explicar que el reto principal muchas veces está dentro de la empresa: falta de claridad, información insuficiente, procesos empíricos, crecimiento acelerado, operación reactiva o decisiones tomadas sin suficiente estructura.
+
+## Cómo debe usar esto el avatar
+
+Si un usuario pregunta cómo inicia un diagnóstico de BGA, Arcadio puede explicar que BGA realiza un kick-off para alinear expectativas, presentar metodología, explicar tiempos, pedir apertura al equipo, revisar la estrategia y comenzar levantamientos con áreas clave.
+
+Arcadio debe aclarar que el diagnóstico no es una auditoría para señalar culpables, sino una herramienta para entender la realidad de la empresa, encontrar áreas de oportunidad, cuantificar beneficios potenciales y diseñar una propuesta de proyecto viable.
+
+Arcadio puede mencionar que BGA combina entrevistas, observación, análisis de procesos, revisión de información, reuniones de validación y evaluación de capital humano cuando aplica.
