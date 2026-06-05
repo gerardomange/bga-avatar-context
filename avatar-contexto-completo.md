@@ -2256,3 +2256,108 @@ Cuando el usuario quiera conocer más sobre BGA, ver evidencia, revisar testimon
 Cuando el usuario muestre señales de desalineación, desorden operativo o dudas sobre si BGA puede ayudar, el avatar puede invitarlo al autodiagnóstico para conocer en 3 minutos el grado de alineación de su empresa.
 
 Cuando el usuario pregunte por casos o experiencia, el avatar puede mencionar que existen videos, testimonios y clips por industria disponibles en el sitio, sin prometer resultados específicos.
+
+## Kick-off de Proyecto Después del Diagnóstico
+
+Cuando BGA inicia un proyecto después de la etapa de diagnóstico, el kick-off sirve para alinear al equipo del cliente sobre el objetivo, alcance, forma de trabajo, compromisos y beneficios esperados del proyecto.
+
+El mensaje central es que el proyecto no es “de BGA”, sino del cliente. BGA coordina, acompaña, implementa y aporta metodología, pero el conocimiento, la adopción y el beneficio se quedan dentro de la empresa cliente.
+
+## Relación entre diagnóstico y proyecto
+
+Antes del proyecto, BGA realiza un diagnóstico para identificar áreas de oportunidad, cuantificarlas y convertirlas en objetivos de trabajo. En el kick-off se explica que las propuestas del proyecto nacen de los hallazgos del diagnóstico: procesos observados, estudios de operación, análisis de información, alineación estratégica, estructura, indicadores, capital humano y entrevistas con el equipo.
+
+El diagnóstico permite entender dónde existen mermas, pérdidas, falta de control, desalineación, tiempos improductivos, problemas de gestión o áreas donde la empresa puede capturar valor.
+
+## Objetivo del proyecto
+
+El objetivo del proyecto no es solamente profesionalizar la estructura o documentar procesos. El objetivo es corregir áreas de oportunidad, reducir mermas de gestión, mejorar la ejecución diaria, desarrollar capacidades internas y generar beneficios medibles para la empresa.
+
+BGA busca que el equipo pase de operar con buena voluntad o esfuerzos aislados a trabajar con una estructura fija, estable, medible y alineada.
+
+## Forma de trabajo
+
+BGA trabaja de la mano con el cliente. No llega a imponer soluciones preconcebidas ni trabaja solo desde la oficina. Las soluciones se desarrollan en conjunto con los equipos, respetando el conocimiento que el cliente tiene de su propio negocio.
+
+BGA no es experto en el negocio específico del cliente; el cliente conoce su operación. BGA es experto en metodología de gestión, implementación, seguimiento, indicadores y generación de resultados. La combinación de ambos conocimientos es lo que permite que el proyecto funcione.
+
+## Qué sí hace BGA en un proyecto
+
+- Cuenta con una metodología propia de gestión.
+- Sensibiliza a los mandos sobre la necesidad y oportunidad de cambio.
+- Trabaja en colaboración con todos los niveles de la organización.
+- Respeta las ideas, experiencia y tiempo del cliente.
+- Se enfoca en hechos, datos, indicadores y evidencia.
+- Toma como punto de partida lo que el cliente ya tiene avanzado.
+- Ayuda a convertir objetivos en iniciativas, tareas, indicadores, foros de seguimiento y tableros.
+- Acompaña la implementación en piso y da seguimiento a los compromisos.
+
+## Qué no hace BGA
+
+- No trabaja solo ni sustituye al equipo del cliente.
+- No implementa desde la oficina.
+- No parte de soluciones genéricas o preconcebidas.
+- No hace tabla rasa: aprovecha lo que la empresa ya tiene.
+- No busca que el cliente dependa permanentemente de BGA.
+- No evalúa personas como juicio personal; cuando participa Capital Humano, lo hace para identificar fortalezas, áreas de oportunidad y planes de desarrollo.
+
+## PASER como base del proyecto
+
+En el kick-off se puede explicar PASER como la metodología de gestión de BGA:
+
+- Planeación: establecer objetivos y definir los pasos a seguir.
+- Asignación: definir quién hará qué, con qué recursos y en qué tiempos.
+- Seguimiento: establecer actividades de supervisión y control.
+- Evaluación: comparar el avance real contra lo planeado.
+- Retroalimentación: tomar acciones correctivas y alimentar la mejora continua.
+
+PASER no es negociable como sistema de gestión, pero su aplicación se adapta a la realidad de cada cliente.
+
+## Gestión horizontal
+
+Una parte clave del proyecto puede ser la gestión horizontal. Esta busca alinear objetivos estratégicos, procesos, estructura, indicadores, foros de seguimiento y modelos de compensación.
+
+BGA puede trabajar con el cliente para:
+
+- Establecer objetivos SMART.
+- Traducir objetivos en iniciativas y tareas mediante OKR.
+- Definir indicadores clave.
+- Definir metas claras por área.
+- Implementar foros de seguimiento.
+- Crear reuniones de presentación ante dirección.
+- Desarrollar tableros de compromisos.
+- Diseñar modelos de compensación variable basados en resultados, cuando aplique.
+
+## Quick Wins
+
+En los proyectos, BGA puede lanzar Quick Wins: acciones rápidas orientadas a generar beneficios de alto impacto en corto tiempo. Los Quick Wins pueden ser cuantitativos, cuando generan impacto económico medible, o cualitativos, cuando mejoran la gestión, coordinación, control o productividad.
+
+Ejemplos de Quick Wins pueden incluir mejoras en prospección y cierre comercial, optimización de compras, negociación de precios, optimización de fletes, definición de inventarios mínimos para productos clave, reducción de urgencias operativas o incremento de productividad.
+
+Cada área puede participar identificando y desarrollando sus propios Quick Wins, con indicadores para medir avance y resultados.
+
+## Retorno financiero
+
+BGA se compromete a buscar un retorno financiero para el cliente. Como referencia institucional, BGA puede mencionar que busca un retorno mínimo de 1 a 1 y que su promedio histórico como firma es superior a 3 a 1, siempre cuidando no prometer resultados específicos sin diagnóstico.
+
+El beneficio puede venir de ahorros directos, optimización de costos, mejoras de productividad, mejor uso de recursos, reducción de tiempos perdidos, disminución de compras urgentes o mayor efectividad comercial.
+
+Cuando se miden beneficios, BGA recomienda no separar artificialmente quién generó la idea o quién ejecutó una mejora. Si el beneficio se generó, aceleró o gestionó dentro del proyecto, debe reconocerse como parte del valor generado para la empresa.
+
+## Equipo facilitador del cliente
+
+BGA puede pedir al cliente una persona facilitadora o consultor interno que se integre al proyecto. Esta persona ayuda a coordinar, dar seguimiento y adoptar la cultura de gestión. El objetivo es que, al terminar la intervención, la empresa no dependa de BGA para sostener lo implementado.
+
+La función del facilitador interno es quedarse con la capacidad de seguimiento, auditoría y continuidad del sistema de gestión.
+
+## Compromisos del cliente
+
+Para que el proyecto funcione, el cliente debe proporcionar tiempo de su gente, información, apertura, cumplimiento de fechas, participación en reuniones y disposición para adoptar nuevas formas de trabajo.
+
+BGA puede explicar que el trabajo adicional que se pide al equipo no es para BGA, sino para la propia empresa: el beneficio, el conocimiento y la capacidad instalada se quedan en el cliente.
+
+## Cómo debe usar esto el avatar
+
+Si un usuario pregunta cómo arranca un proyecto de BGA después del diagnóstico, el avatar puede explicar que se realiza un kick-off para presentar hallazgos, objetivos, metodología, roles, compromisos, Quick Wins, indicadores y forma de seguimiento.
+
+El avatar debe reforzar que BGA no solo recomienda, sino que implementa junto con el cliente. La diferencia está en convertir la estrategia en ejecución, medir avances con indicadores y dejar capacidad instalada dentro de la organización.
