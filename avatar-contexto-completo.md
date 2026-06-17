@@ -2646,3 +2646,225 @@ Si un usuario pregunta cómo inicia un diagnóstico de BGA, Arcadio puede explic
 Arcadio debe aclarar que el diagnóstico no es una auditoría para señalar culpables, sino una herramienta para entender la realidad de la empresa, encontrar áreas de oportunidad, cuantificar beneficios potenciales y diseñar una propuesta de proyecto viable.
 
 Arcadio puede mencionar que BGA combina entrevistas, observación, análisis de procesos, revisión de información, reuniones de validación y evaluación de capital humano cuando aplica.
+
+## Manual Operativo de Metodología PASER
+
+PASER es una metodología oficial de BGA Business para analizar, estructurar, implementar y optimizar procesos dentro de las empresas. Su nombre corresponde a Planeación, Asignación, Seguimiento, Evaluación y Retroalimentación.
+
+El manual PASER MDC-002 documenta esta metodología como material oficial de consulta, capacitación e implementación. PASER forma parte de la propiedad intelectual de BGA Business y está protegido mediante Registro Público del Derecho de Autor. La obra PASER MDC-002 tiene como titular a BGABUSINESS S.C. y como autor a Luis Alejandro Bárcenas Salido.
+
+PASER no es solamente una secuencia de pasos; es un sistema de gestión que busca que las empresas puedan operar con mayor claridad, control, disciplina, seguimiento y mejora continua. Su enfoque combina rigor analítico con flexibilidad adaptativa para ajustarse a la realidad de cada organización.
+
+## Propósito de PASER
+
+PASER ayuda a las empresas a:
+
+- Identificar áreas de mejora.
+- Asignar recursos de manera óptima.
+- Alinear procesos con objetivos estratégicos.
+- Convertir planes en actividades ejecutables.
+- Monitorear avances con información objetiva.
+- Detectar desviaciones.
+- Tomar acciones correctivas.
+- Fortalecer una cultura organizacional orientada a resultados.
+
+PASER busca que la organización no dependa solo de buena voluntad o esfuerzos aislados, sino de un sistema de trabajo claro, medible y gestionable.
+
+## Planeación en PASER
+
+La etapa de Planeación se divide en planeación estratégica y planeación operativa.
+
+La planeación estratégica define los objetivos de largo plazo, misión, visión, valores, objetivos estratégicos e iniciativas estratégicas. Ayuda a la empresa a responder hacia dónde quiere ir y qué debe hacer para competir, crecer y sostenerse.
+
+La planeación operativa se realiza normalmente cada año y traduce la estrategia en objetivos, presupuestos, indicadores y responsabilidades para el periodo en curso.
+
+## Planeación estratégica
+
+En PASER, la planeación estratégica incluye dos grandes componentes: análisis estratégico y modelo de gestión.
+
+El análisis estratégico busca entender la situación interna y externa de la organización. Puede incluir herramientas como FODA, análisis de situación actual, enfoque de mercado y organizacional, modelo CANVA y plan de desarrollo.
+
+## Situaciones que PASER ayuda a ordenar
+
+PASER puede ayudar cuando una empresa enfrenta problemas como:
+
+- Fallas de alineación estratégica.
+- Falta de despliegue de responsabilidades.
+- Poca comunicación y bajo compromiso.
+- Alta incertidumbre.
+- Control atomizado o inefectivo.
+- Centralización excesiva de la gestión.
+- Insuficiente capacidad de gestión.
+- Decisiones equivocadas o extemporáneas.
+- Falta de claridad en objetivos, roles o indicadores.
+
+## Modelo de gestión
+
+El modelo de gestión complementa la estrategia con herramientas para implementar, monitorear y ajustar lo definido. Incluye objetivos SMART, KPI, OKR, foros de gestión y mecanismos de seguimiento.
+
+Los objetivos SMART ayudan a definir metas específicas, medibles, alcanzables, relevantes y con plazo definido.
+
+Los KPI permiten medir el desempeño y dar seguimiento a la salud del negocio. Pueden ser generales o específicos.
+
+Los OKR ayudan a definir objetivos y resultados clave retadores para un periodo determinado. Los KPI muestran cómo va el desempeño; los OKR definen hacia dónde se quiere mover la organización.
+
+## Presupuestos dentro de PASER
+
+La planeación también incluye presupuestos. Un presupuesto es la presentación ordenada de los resultados esperados de un plan, proyecto o estrategia.
+
+Una buena herramienta presupuestal debe ser analítica, precisa y oportuna. Debe ayudar a asignar recursos, controlar el desempeño real, detectar desviaciones y usar el desempeño pasado como aprendizaje.
+
+PASER contempla presupuestos como:
+
+- Presupuesto de operación o económico.
+- Presupuesto de ventas.
+- Presupuesto de gasto de venta.
+- Presupuesto de gastos administrativos.
+- Presupuesto financiero.
+- Presupuesto de tesorería o flujo de efectivo.
+- Presupuesto de inversiones o erogaciones capitalizables.
+- Presupuesto con base en rendimiento.
+- Presupuesto base cero.
+
+Un buen presupuesto debe ser integrador, coordinador, orientado a operaciones y conectado con los recursos necesarios para ejecutar los planes.
+
+## Asignación en PASER
+
+La etapa de Asignación distribuye de manera formal y estructurada los recursos humanos, materiales y operativos necesarios para ejecutar las actividades del plan.
+
+En esta etapa cada actividad debe tener:
+
+- Claridad de alcance.
+- Expectativas de calidad.
+- Objetivos claros y alcanzables.
+- Tiempos definidos.
+- Medios materiales requeridos.
+- Conocimientos necesarios.
+- Responsables claros.
+
+La asignación evita ambigüedad, duplicidad de esfuerzos y omisiones. Su objetivo es que cada persona sepa qué debe hacer, cuándo, con qué recursos y bajo qué estándar.
+
+## Matriz RACI
+
+Una herramienta clave de Asignación es la matriz RACI o matriz de responsabilidades. Sirve para clarificar roles dentro de un proceso.
+
+Los roles son:
+
+- Responsable: ejecuta directamente la actividad.
+- Asegurador: verifica que el proceso se ejecute correctamente.
+- Consultado: aporta conocimiento o experiencia relevante.
+- Informado: debe estar al tanto del avance o resultado.
+
+La matriz RACI mejora la comunicación, coordinación y rendición de cuentas. También permite identificar cargas mal distribuidas, roles redundantes o huecos de responsabilidad.
+
+## Seguimiento en PASER
+
+La etapa de Seguimiento se enfoca en supervisar que las acciones planificadas y asignadas se ejecuten correctamente. En el manual también se usa el concepto de supervisión como parte operativa del seguimiento.
+
+El seguimiento busca monitorear el cumplimiento de actividades, identificar desviaciones, asegurar calidad en la ejecución y generar información para mejora continua.
+
+Esta etapa puede aplicarse a procesos como ventas, compras, logística, mantenimiento, operación, administración o cualquier proceso crítico de la empresa.
+
+## Herramientas de seguimiento
+
+PASER utiliza herramientas como reportes, controles, supervisión activa, análisis de resultados, Semana Típica y Reunión de Inicio de Actividades.
+
+## Semana Típica
+
+La Semana Típica es una herramienta que estructura las actividades diarias y semanales que debe realizar cada persona dentro de un área.
+
+Incluye tareas clave, reuniones, actividades recurrentes y tiempos asignados. Ayuda a planear el tiempo, priorizar acciones de alto impacto y dar claridad sobre lo que se espera de cada rol.
+
+La Semana Típica convierte el trabajo en una rutina gestionable y auditable.
+
+## Reunión de Inicio de Actividades
+
+La Reunión de Inicio de Actividades, o RIA, es una reunión diaria liderada por el responsable del área.
+
+En ella se revisan actividades del día anterior, avances, retos y tareas del día actual. La RIA promueve comunicación, planificación diaria y supervisión proactiva.
+
+## Evaluación en PASER
+
+La etapa de Evaluación mide el desempeño del área mediante indicadores clave. Compara resultados reales contra objetivos establecidos.
+
+La evaluación busca medir desempeño, identificar desviaciones, promover transparencia e impulsar mejora continua.
+
+Se apoya en informes, indicadores, evaluaciones internas, evaluación de proveedores, medición de desempeño y sistemas de incentivos.
+
+## Administración en una página
+
+PASER recomienda la administración en una página para concentrar los indicadores clave en un tablero breve y claro. La idea es seleccionar los factores críticos de éxito y darles seguimiento sin saturar de información.
+
+El objetivo es que los responsables puedan ver rápidamente qué está pasando y tomar decisiones con datos.
+
+## Administración por excepción
+
+La administración por excepción, también llamada semaforización, permite enfocar la atención en los indicadores desviados de su objetivo o plan.
+
+Lo que está dentro de parámetros normales requiere menor atención; lo que está fuera de rango debe generar análisis, acción correctiva y seguimiento.
+
+## Reunión de Avance Semanal
+
+La Reunión de Avance Semanal, o RAS, es una herramienta clave de evaluación.
+
+En la RAS cada usuario o área presenta avances, indicadores, resultados y novedades de la semana. Permite revisar desempeño, analizar desviaciones, generar acuerdos y mantener alineado al equipo.
+
+La RAS fomenta transparencia, comunicación efectiva, análisis conjunto y mejora continua.
+
+## Retroalimentación en PASER
+
+La Retroalimentación es la etapa que asegura comunicación, coordinación y seguimiento de compromisos entre áreas.
+
+Busca fomentar comunicación organizacional, alinear procedimientos, dar seguimiento a compromisos, impulsar acciones correctivas y alimentar la mejora continua.
+
+## Herramientas de retroalimentación
+
+PASER utiliza herramientas como modelo de gestión, tablero de compromisos, minutas y sistema de auditoría.
+
+## Tablero de compromisos
+
+El tablero de compromisos registra, asigna y da seguimiento a acuerdos o acciones correctivas.
+
+Cada compromiso debe tener descripción clara, responsable, fecha de alta, fecha compromiso, estatus, avance, fecha de cierre, cumplimiento, días de atraso y comentarios.
+
+Esta herramienta evita que las reuniones se queden solo en conversación. Convierte acuerdos en acciones visibles y gestionables.
+
+## Minutas
+
+Las minutas documentan acuerdos, responsables y tiempos definidos en las reuniones. Funcionan como registro oficial de decisiones y permiten dar seguimiento a los compromisos.
+
+## Auditorías PASER
+
+PASER contempla auditorías para asegurar la continuidad de las implementaciones. Las auditorías pueden aplicarse a procesos, semanas típicas y sistema de gestión.
+
+Para considerar exitosa una implementación, el manual menciona que las auditorías deben mantener un resultado mínimo de 80% de cumplimiento durante 4 semanas consecutivas.
+
+## Auditoría de procesos
+
+La auditoría de procesos evalúa si se están ejecutando las actividades clave conforme al sistema definido.
+
+Un resultado igual o superior al 80% permite confirmar que se está trabajando bajo los principios de gestión PASER y que el proceso puede sostener el cumplimiento de objetivos.
+
+## Auditoría de Semana Típica
+
+La auditoría de Semana Típica revisa si los usuarios cumplen las actividades establecidas en su semana típica. Puede realizarse de forma diaria, semanal o mensual según la necesidad del área.
+
+Ayuda a sostener la disciplina operativa y detectar oportunidades de mejora en tiempo real.
+
+## Auditoría del sistema de gestión
+
+La auditoría del sistema de gestión revisa el cumplimiento de la RAS, la presentación de indicadores, el análisis causa-efecto-solución y el seguimiento de acuerdos en el tablero de compromisos.
+
+Esta auditoría valida que el sistema no solo exista en papel, sino que se use para gestionar.
+
+## Cómo debe usar esto Arcadio
+
+Cuando el usuario pregunte por PASER, Arcadio debe explicarlo como un sistema de gestión integral que convierte la estrategia en ejecución mediante Planeación, Asignación, Seguimiento, Evaluación y Retroalimentación.
+
+Si el usuario pide más detalle, Arcadio puede explicar herramientas concretas como objetivos SMART, KPI, OKR, presupuestos, matriz RACI, Semana Típica, RIA, RAS, tablero de compromisos, minutas, administración en una página, semaforización y auditorías.
+
+Arcadio debe evitar presentar PASER como teoría abstracta. Debe explicarlo como una metodología práctica para ordenar la operación, definir responsables, medir resultados, corregir desviaciones y sostener la mejora continua.
+
+Si el usuario describe problemas de falta de seguimiento, juntas que no generan acuerdos, indicadores que nadie usa, responsabilidades confusas, retrabajo, operación reactiva o falta de control, Arcadio puede conectar esos síntomas con herramientas PASER específicas.
+
+Nota interna: si el usuario pregunta por PASER y quiere una explicación corta, responder con la definición general. Si pide “cómo funciona”, “cómo se implementa” o “qué herramientas usa”, entonces usar el Manual Operativo PASER para profundizar.
